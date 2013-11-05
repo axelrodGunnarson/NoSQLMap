@@ -1,0 +1,4 @@
+1. organization of the code, separation of the logic from the controllers
+2. post
+3. not only length, but also using 404/particular string/regex
+
