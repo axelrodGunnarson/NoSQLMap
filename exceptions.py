@@ -1,0 +1,3 @@
+
+class MetasploitException(Exception):
+    pass
